@@ -1,10 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T03:26:46.872Z" agent="5.0 (Windows)" etag="PF2gSwCnCQQTJnSUQwWd" version="21.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T03:50:11.265Z" agent="5.0 (Windows)" etag="B2msgHd56sIIyx9viz6g" version="21.0.4" type="github">
   <diagram name="Page-1" id="bHR2FnbiKH42XE7eoHGA">
-    <mxGraphModel dx="1314" dy="2190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="692" dy="1674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-106" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-111" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="490" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-106" value="KONSUMEN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="470" y="110" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GZ-7p6NIEpDdpcSqMRWB-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
@@ -19,64 +22,64 @@
             <mxPoint x="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-14" value="&lt;div&gt;Mengelola &lt;br&gt;&lt;/div&gt;&lt;div&gt;Data Konsumen&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="190" y="50" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-15" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;Menambah&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;Data Konsumen&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="190" y="90" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-16" value="&lt;div&gt;Mengubah &lt;br&gt;&lt;/div&gt;&lt;div&gt;Data Konsumen&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="190" y="130" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-17" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;Menghapus&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;Data Konsumen&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="190" y="170" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-19" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;Menghapus&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;Data Transaksi&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="190" y="360" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-20" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;Mengubah&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;Data Transaksi &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="190" y="320" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-21" value="&lt;div&gt;menambah&lt;/div&gt;&lt;div&gt;data transaksi&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="280" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-22" value="&lt;div&gt;Mengelola&lt;/div&gt;&lt;div&gt;data transaksi&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="240" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-24" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;Menambah&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;Data Petugas&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="190" y="470" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-25" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;Menghapus&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;Data Petugas&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="190" y="550" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-26" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;Mengubah&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;Data Petugas&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="190" y="510" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-27" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;Mengelola&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;Data Petugas&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="190" y="430" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-44" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-44" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;Menghapus&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;Data Paket&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="190" y="760" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-45" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-45" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;Mengubah&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;Data Tipe Pembayaran&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="190" y="920" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-46" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-46" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;Menambah&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;Data Paket&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="190" y="680" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-47" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-47" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;Mengelola&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;Data Paket&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="190" y="640" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-48" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-48" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;Menghapus&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;Data Tipe Pembayaran&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="190" y="960" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-49" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-49" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;Mengubah&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;Data Paket&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="190" y="720" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-50" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-50" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;Menambah&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;Data Tipe Pembayaran&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="190" y="880" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-51" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-51" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;Mengelola&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;Data Tipe Pembayaran&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="190" y="840" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GZ-7p6NIEpDdpcSqMRWB-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GZ-7p6NIEpDdpcSqMRWB-2" target="GZ-7p6NIEpDdpcSqMRWB-14">
@@ -223,16 +226,16 @@
             <mxPoint x="560" y="279" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-107" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-107" value="PETUGAS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="470" y="490" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-108" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-108" value="TRANSAKSI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="470" y="300" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-109" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-109" value="PAKET" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="580" y="700" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-110" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-110" value="TIPE PEMBAYARAN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="580" y="900" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GZ-7p6NIEpDdpcSqMRWB-112" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -433,9 +436,6 @@
             <mxPoint x="770" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-111" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="490" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="GZ-7p6NIEpDdpcSqMRWB-150" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GZ-7p6NIEpDdpcSqMRWB-111" target="GZ-7p6NIEpDdpcSqMRWB-113">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="810" y="630" as="sourcePoint" />
@@ -447,6 +447,12 @@
             <mxPoint x="820" y="640" as="sourcePoint" />
             <mxPoint x="870" y="590" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-154" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;Mengelola&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;Data Transaksi&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="190" y="240" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GZ-7p6NIEpDdpcSqMRWB-155" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;Menambah&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;Data Transaksi&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="190" y="280" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
